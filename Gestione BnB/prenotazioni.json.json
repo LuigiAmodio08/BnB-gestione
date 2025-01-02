@@ -1,0 +1,19 @@
+{
+    "prenotazioni": [
+      {
+        "cliente": "Giovanni Rossi",
+        "stanza": "Stanza 1",
+        "giorni": 5,
+        "stagione": "Alta Stagione",
+        "costo": 750
+      },
+      {
+        "cliente": "Maria Bianchi",
+        "stanza": "Stanza 3",
+        "giorni": 3,
+        "stagione": "Bassa Stagione",
+        "costo": 300
+      }
+    ]
+  }
+  
