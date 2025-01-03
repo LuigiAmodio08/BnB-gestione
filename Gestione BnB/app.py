@@ -4,7 +4,7 @@ from tkcalendar import Calendar
 from datetime import datetime
 
 class BnBApp:
-    def __init__(self, root, bnb):  # Corretto __init__ (non _init_)
+    def __init__(self, root, bnb):  
         self.bnb = bnb
         self.root = root
         self.root.title("Gestione Prenotazioni BnB")
